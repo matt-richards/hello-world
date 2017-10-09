@@ -9,8 +9,8 @@ This is my feature branch that I am using to test out working with GitHub (git)
 - ~~Feature C~~ *removed*
 
 
-[x] inline images fixed
-[ ] additional config files
+- [x] inline images fixed
+- [ ] additional config files
 
 ```javascript
 var s = "JavaScript syntax highlighting";
