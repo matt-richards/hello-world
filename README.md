@@ -2,15 +2,19 @@
 
 This is my feature branch that I am using to test out working with GitHub (git)
 
-![aardvark image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwir-bmS3ePWAhUF5YMKHZ-OC7MQjRwIBw&url=http%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Fa%2Faardvark%2F&psig=AOvVaw13EFC6rZVDOVe2D9NgZ88Z&ust=1507644923691198)
+![aardvark image](http://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/a/aardvark_thumb.ngsversion.1474903830105.adapt.1900.1.JPG)
 
-![Zebu image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwj-1-mx3ePWAhVp8IMKHWK2CNcQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZebu&psig=AOvVaw1dOKWXxhtobGCDILxRQHJK&ust=1507644989478928)
+![Zebu image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bos_taurus_indicus.jpg/1200px-Bos_taurus_indicus.jpg)
 
 ---
 
 - ~~Feature A~~ *removed*
 - ~~Feature B~~ *removed*
 - ~~Feature C~~ *removed*
+
+
+- [x] inline images fixed
+- [ ] additional config files
 
 ```javascript
 var s = "JavaScript syntax highlighting";
